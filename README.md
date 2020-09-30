@@ -5,4 +5,5 @@ To move your business    you need to direct your mail to be delivered to your ne
 After you update your domain host, the changes typically take effect in just an hour or two. But be aware that it can sometimes take up to 72 hours for the changes update across the Internet.
 Because you might have email downtime, we recommend you plan to switch to Office 365 email during an evening or weekend when you receive fewer emails.office.com/setup
 
-https://office.com/setup
+
+http://office-settup.com/
